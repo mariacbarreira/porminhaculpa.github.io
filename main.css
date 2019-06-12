@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: black;
+}
+
+.logo-site {
+	position: fixed;
+	margin-left: 2%;
+	margin-top: 50%;
+	width: 215px;
+}
+
+.about-main {
+	position: fixed;
+	margin-left: 2%;
+	margin-top: 5.5%;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.ficha-main {
+	position: fixed;
+	margin-left: 2%;
+	margin-top: 7.5%;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+}

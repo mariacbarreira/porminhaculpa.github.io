@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#text-pell {
+	margin: auto;
+	width: 610px;
+}
+
+#title-pell {
+	margin: auto;
+	width: 610px;
+}
+
+.title-pell {
+	padding-top: 5%;
+	margin: auto;
+	width: 610px;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 24px;
+	line-height: 35px;
+	margin-bottom: -10%;
+}
+
+.text-pell {
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+.underline {
+	border-bottom: 2px solid;
+}
+
+#hover-pell-1 {
+	margin: auto;
+}
+
+.hover-pell-1 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pell-1.jpg) no-repeat;
+}
+
+.hover-pell-1:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pell-1.gif) no-repeat;
+}

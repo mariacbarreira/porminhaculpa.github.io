@@ -1,0 +1,209 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#mother {
+	width: 670px;
+	height: 650px;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+#container {
+	float: left;
+	height: 650px;
+	width: 180px;
+}
+
+#container-2 {
+	display: inline-block;
+	height: 650px;
+	width: 145px;
+}
+
+#container-3 {
+	display: inline-block;
+	width: 170px;
+	height: 650px;
+}
+
+#container-4 {
+	display: inline-block;
+	width: 150px;
+	height: 650px;
+}
+
+.sections {
+	float: left;
+	padding: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.section-1 {
+	position: relative;
+}
+
+.section-1:hover .overlay {
+	opacity: 1;
+}
+
+.section-2 {
+	position: relative;
+}
+
+.section-2:hover .overlay {
+	opacity: 1;
+}
+
+.section-3 {
+	position: relative;
+}
+
+.section-3:hover .overlay {
+	opacity: 1;
+}
+
+.section-4 {
+	position: relative;
+}
+
+.section-4:hover .overlay {
+	opacity: 1;
+}
+
+.section-5 {
+	position: relative;
+}
+
+.section-5:hover .overlay {
+	opacity: 1;
+}
+
+.section-6 {
+	position: relative;
+}
+
+.section-6:hover .overlay {
+	opacity: 1;
+}
+
+.section-7 {
+	position: relative;
+}
+
+.section-7:hover .overlay {
+	opacity: 1;
+}
+
+.section-8 {
+	position: relative;
+}
+
+.section-8:hover .overlay {
+	opacity: 1;
+}
+
+.section-9 {
+	position: relative;
+}
+
+.section-9:hover .overlay {
+	opacity: 1;
+}
+
+.section-10 {
+	position: relative;
+}
+
+.section-10:hover .overlay {
+	opacity: 1;
+}
+
+.section-11 {
+	position: relative;
+}
+
+.section-11:hover .overlay {
+	opacity: 1;
+}
+
+.section-12 {
+	position: relative;
+}
+
+.section-12:hover .overlay {
+	opacity: 1;
+}
+
+.section-13 {
+	position: relative;
+}
+
+.section-13:hover .overlay {
+	opacity: 1;
+}
+
+.section-14 {
+	position: relative;
+}
+
+.section-14:hover .overlay {
+	opacity: 1;
+}
+
+.section-15 {
+	position: relative;
+}
+
+.section-15:hover .overlay {
+	opacity: 1;
+}
+
+.section-16 {
+	position: relative;
+}
+
+.section-16:hover .overlay {
+	opacity: 1;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .6s ease;
+	background-color: black;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.text-overlay {
+	color: white;
+	font-size: 13.5px;
+	line-height: 20px;
+	position: absolute;
+	font-family: 'Helvetica', sans-serif;
+	top: 50%;
+	left: 50%;
+	width: 100px;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.titulos-menu {
+	color: white;
+	font-size: 14px;
+	margin-left: 7%;
+	font-family: 'Helvetica', sans-serif;
+}
