@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#text-may {
+	margin: auto;
+	width: 610px;
+}
+
+#title-may {
+	margin: auto;
+	width: 610px;
+}
+
+.title-may {
+	padding-top: 5%;
+	margin: auto;
+	width: 610px;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 24px;
+	line-height: 35px;
+	margin-bottom: -10%;
+}
+
+.text-may {
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+.underline {
+	border-bottom: 2px solid;
+}
+
+#hover-may-1 {
+	margin: auto;
+}
+
+.hover-may-1 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-may-1.jpg) no-repeat;
+}
+
+.hover-may-1:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-may-1.gif) no-repeat;
+}
