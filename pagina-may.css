@@ -19,7 +19,7 @@
 	font-family: 'Helvetica', sans-serif;
 	font-size: 24px;
 	line-height: 35px;
-	margin-bottom: -10%;
+	margin-bottom: 5%;
 }
 
 .text-may {
@@ -49,4 +49,20 @@
 	width: 860px;
 	height: 485px;
 	background: url(hover-may-1.gif) no-repeat;
+}
+
+#hover-may-2 {
+	margin: auto;
+}
+
+.hover-may-2 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-may-2.jpg) no-repeat;
+}
+
+.hover-may-2:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-may-2.gif) no-repeat;
 }

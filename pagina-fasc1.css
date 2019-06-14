@@ -1,0 +1,117 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#text-fasc1 {
+	margin: auto;
+	width: 610px;
+}
+
+#title-fasc1 {
+	margin: auto;
+	width: 610px;
+}
+
+.title-fasc1 {
+	padding-top: 5%;
+	margin: auto;
+	width: 610px;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 24px;
+	line-height: 35px;
+	margin-bottom: 5%;
+}
+
+.text-fasc1 {
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+.underline {
+	border-bottom: 2px solid;
+}
+
+#hover-fasc1-1 {
+	margin: auto;
+}
+
+.hover-fasc1-1 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-1.jpg) no-repeat;
+}
+
+.hover-fasc1-1:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-1.gif) no-repeat;
+}
+
+#hover-fasc1-2 {
+	margin: auto;
+}
+
+.hover-fasc1-2 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-2.jpg) no-repeat;
+}
+
+.hover-fasc1-2:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-2.gif) no-repeat;
+}
+
+#hover-fasc1-3 {
+	margin: auto;
+}
+
+.hover-fasc1-3 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-3.jpg) no-repeat;
+}
+
+.hover-fasc1-3:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-3.gif) no-repeat;
+}
+
+#hover-fasc1-4 {
+	margin: auto;
+}
+
+.hover-fasc1-4 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-4.jpg) no-repeat;
+}
+
+.hover-fasc1-4:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-4.gif) no-repeat;
+}
+
+#hover-fasc1-5 {
+	margin: auto;
+}
+
+.hover-fasc1-5 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-5.jpg) no-repeat;
+}
+
+.hover-fasc1-5:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-redemption-5.gif) no-repeat;
+}
+

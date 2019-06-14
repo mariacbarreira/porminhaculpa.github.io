@@ -1,0 +1,109 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#text-fasc1 {
+	margin: auto;
+	width: 610px;
+}
+
+#title-fasc1 {
+	margin: auto;
+	width: 610px;
+}
+
+.title-fasc1 {
+	padding-top: 5%;
+	margin: auto;
+	width: 610px;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 24px;
+	line-height: 35px;
+	margin-bottom: 5%;
+}
+
+.text-fasc1 {
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+.section-1 {
+	position: relative;
+}
+
+.section-1:hover .overlay {
+	opacity: 1;
+}
+
+.section-2 {
+	position: relative;
+}
+
+.section-2:hover .overlay {
+	opacity: 1;
+}
+
+.section-3 {
+	position: relative;
+}
+
+.section-3:hover .overlay {
+	opacity: 1;
+}
+
+.section-4 {
+	position: relative;
+}
+
+.section-4:hover .overlay {
+	opacity: 1;
+}
+
+.sections {
+	float: left;
+	padding: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .6s ease;
+	background-color: black;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.text-overlay {
+	color: white;
+	font-size: 13.5px;
+	line-height: 20px;
+	position: absolute;
+	font-family: 'Helvetica', sans-serif;
+	top: 50%;
+	left: 50%;
+	width: 100px;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+#mother {
+	width: 610px;
+	height: 150px;
+	margin-left: 28%;
+	margin-top: 4%;
+}
+

@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#text-fasc5 {
+	margin: auto;
+	width: 610px;
+}
+
+#title-fasc5 {
+	margin: auto;
+	width: 610px;
+}
+
+.title-fasc5 {
+	padding-top: 5%;
+	margin: auto;
+	width: 610px;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 24px;
+	line-height: 35px;
+	margin-bottom: 5%;
+}
+
+.text-fasc5 {
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+#hover-fasc5-1 {
+	margin: auto;
+}
+
+.hover-fasc5-1 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-sala-1.jpg) no-repeat;
+}
+
+.hover-fasc5-1:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-sala-1.gif) no-repeat;
+}
+
+#hover-fasc5-2 {
+	margin: auto;
+}
+
+.hover-fasc5-2 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-sala-2.jpg) no-repeat;
+}
+
+.hover-fasc5-2:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-sala-2.gif) no-repeat;
+}
+
+#hover-fasc5-3 {
+	margin: auto;
+}
+
+.hover-fasc5-3 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-sala-3.jpg) no-repeat;
+}
+
+.hover-fasc5-3:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-sala-3.gif) no-repeat;
+}
+
+#hover-fasc5-4 {
+	margin: auto;
+}
+
+.hover-fasc5-4 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-sala-4.jpg) no-repeat;
+}
+
+.hover-fasc5-4:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-sala-4.gif) no-repeat;
+}
+

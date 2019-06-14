@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#text-fasc6 {
+	margin: auto;
+	width: 610px;
+}
+
+#title-fasc6 {
+	margin: auto;
+	width: 610px;
+}
+
+.title-fasc6 {
+	padding-top: 5%;
+	margin: auto;
+	width: 610px;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 24px;
+	line-height: 35px;
+	margin-bottom: 5%;
+}
+
+.text-fasc6 {
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+#hover-fasc6-1 {
+	margin: auto;
+}
+
+.hover-fasc6-1 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-6.jpg) no-repeat;
+}
+
+.hover-fasc6-1:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-6.gif) no-repeat;
+}
+
+#hover-fasc6-2 {
+	margin: auto;
+}
+
+.hover-fasc6-2 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-1.jpg) no-repeat;
+}
+
+.hover-fasc6-2:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-1.gif) no-repeat;
+}
+
+#hover-fasc6-3 {
+	margin: auto;
+}
+
+.hover-fasc6-3 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-2.jpg) no-repeat;
+}
+
+.hover-fasc6-3:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-2.gif) no-repeat;
+}
+
+#hover-fasc6-4 {
+	margin: auto;
+}
+
+.hover-fasc6-4 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-3.jpg) no-repeat;
+}
+
+.hover-fasc6-4:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-3.gif) no-repeat;
+}
+
+#hover-fasc6-5 {
+	margin: auto;
+}
+
+.hover-fasc6-5 {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-4.jpg) no-repeat;
+}
+
+.hover-fasc6-5:hover {
+	width: 860px;
+	height: 485px;
+	background: url(hover-pessoas-4.gif) no-repeat;
+}
+

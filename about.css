@@ -29,11 +29,9 @@
 .text-about {
 	color: white;
 	font-family: 'Helvetica', sans-serif;
-	font-size: 20px;
-	line-height: 35px;
-	margin-bottom: 100px;
+	font-size: 16px;
+	line-height: 30px;
+	margin-top: 8%;
+	margin-bottom: 8%;
 }
 
-.underline {
-	border-bottom: 2px solid;
-}

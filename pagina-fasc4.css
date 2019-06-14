@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#text-fasc4 {
+	margin: auto;
+	width: 610px;
+}
+
+#title-fasc4 {
+	margin: auto;
+	width: 610px;
+}
+
+.title-fasc4 {
+	padding-top: 5%;
+	margin: auto;
+	width: 610px;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 24px;
+	line-height: 35px;
+	margin-bottom: 5%;
+}
+
+.text-fasc4 {
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+#hover-fasc4-block1 {
+	margin: auto;
+	width: 860px;
+}
+
+#hover-fasc4-1 {
+	display: inline-block;
+}
+
+
+#hover-fasc4-2 {
+	display: inline-block;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+#hover-fasc4-3 {
+	display: inline-block;
+	float: right;
+}
+
+#hover-fasc4-4 {
+	margin: auto;
+	width: 266px;
+}
+
+#hover-fasc4-block2 {
+	margin: auto;
+	width: 860px;
+}
+
+#hover-fasc4-5 {
+	display: inline-block;
+}
+
+#hover-fasc4-6 {
+	display: inline-block;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+#hover-fasc4-7 {
+	display: inline-block;
+	float: right;
+}
+
+#hover-fasc4-8 {
+	margin: auto;
+	width: 266px;
+}
