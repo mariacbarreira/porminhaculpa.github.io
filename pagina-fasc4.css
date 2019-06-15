@@ -12,14 +12,9 @@
 }
 
 .title-fasc4 {
-	padding-top: 5%;
+	padding-top: 7%;
 	margin: auto;
-	width: 610px;
-	color: white;
-	font-family: 'Helvetica', sans-serif;
-	font-size: 24px;
-	line-height: 35px;
-	margin-bottom: 5%;
+	margin-bottom: 4%;
 }
 
 .text-fasc4 {
@@ -80,4 +75,97 @@
 #hover-fasc4-8 {
 	margin: auto;
 	width: 266px;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .6s ease;
+	background-color: black;
+	display: inline-block;
+}
+
+.text-overlay {
+	color: white;
+	font-size: 16px;
+	line-height: 22px;
+	position: absolute;
+	font-family: 'Helvetica', sans-serif;
+	top: 50%;
+	left: 50%;
+	width: 200px;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.section-1 {
+	position: relative;
+}
+
+.section-1:hover .overlay {
+	opacity: 1;
+}
+
+.section-2 {
+	position: relative;
+}
+
+.section-2:hover .overlay {
+	opacity: 1;
+}
+
+.section-3 {
+	position: relative;
+}
+
+.section-3:hover .overlay {
+	opacity: 1;
+}
+
+.section-4 {
+	position: relative;
+}
+
+.section-4:hover .overlay {
+	opacity: 1;
+}
+
+.section-5 {
+	position: relative;
+}
+
+.section-5:hover .overlay {
+	opacity: 1;
+}
+
+.section-6 {
+	position: relative;
+}
+
+.section-6:hover .overlay {
+	opacity: 1;
+}
+
+.section-7 {
+	position: relative;
+}
+
+.section-7:hover .overlay {
+	opacity: 1;
+}
+
+.section-8 {
+	position: relative;
+}
+
+.section-8:hover .overlay {
+	opacity: 1;
 }

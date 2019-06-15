@@ -1,97 +1,28 @@
 @charset "UTF-8";
 /* CSS Document */
 
-#text-fasc7 {
+#text-ficha {
 	margin: auto;
 	width: 610px;
 }
 
-#title-fasc7 {
+#title-ficha {
 	margin: auto;
 	width: 610px;
 }
 
-.title-fasc7 {
-	padding-top: 5%;
+.title-ficha {
+	padding-top: 7%;
 	margin: auto;
-	width: 610px;
-	color: white;
-	font-family: 'Helvetica', sans-serif;
-	font-size: 24px;
-	line-height: 35px;
-	margin-bottom: 5%;
+	margin-bottom: 4%;
 }
 
-.text-fasc7 {
+.text-ficha {
 	color: white;
 	font-family: 'Helvetica', sans-serif;
 	font-size: 16px;
 	line-height: 30px;
 	margin-top: 8%;
 	margin-bottom: 8%;
-}
-
-#hover-fasc7-1 {
-	margin: auto;
-}
-
-.hover-fasc7-1 {
-	width: 860px;
-	height: 485px;
-	background: url(hover-discurso-pell.jpg) no-repeat;
-}
-
-.hover-fasc7-1:hover {
-	width: 860px;
-	height: 485px;
-	background: url(hover-discurso-pell.gif) no-repeat;
-}
-
-#hover-fasc7-2 {
-	margin: auto;
-}
-
-.hover-fasc7-2 {
-	width: 860px;
-	height: 485px;
-	background: url(hover-discurso-bolsonaro.jpg) no-repeat;
-}
-
-.hover-fasc7-2:hover {
-	width: 860px;
-	height: 485px;
-	background: url(hover-discurso-bolsonaro.gif) no-repeat;
-}
-
-#hover-fasc7-3 {
-	margin: auto;
-}
-
-.hover-fasc7-3 {
-	width: 860px;
-	height: 485px;
-	background: url(hover-discurso-abu.jpg) no-repeat;
-}
-
-.hover-fasc7-3:hover {
-	width: 860px;
-	height: 485px;
-	background: url(hover-discurso-abu.gif) no-repeat;
-}
-
-#hover-fasc7-4 {
-	margin: auto;
-}
-
-.hover-fasc7-4 {
-	width: 860px;
-	height: 485px;
-	background: url(hover-discurso-may.jpg) no-repeat;
-}
-
-.hover-fasc7-4:hover {
-	width: 860px;
-	height: 485px;
-	background: url(hover-discurso-may.gif) no-repeat;
 }
 
