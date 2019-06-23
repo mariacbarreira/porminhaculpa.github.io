@@ -14,7 +14,7 @@
 .title-fasc5 {
 	padding-top: 7%;
 	margin: auto;
-	margin-bottom: 4%;
+	height: 25px;
 }
 
 .text-fasc5 {
@@ -22,8 +22,8 @@
 	font-family: 'Helvetica', sans-serif;
 	font-size: 16px;
 	line-height: 30px;
-	margin-top: 8%;
-	margin-bottom: 8%;
+	margin-top: 4%;
+	margin-bottom: 4%;
 }
 
 #hover-fasc5-1 {
@@ -90,3 +90,78 @@
 	background: url(hover-sala-4.gif) no-repeat;
 }
 
+
+.section-1 {
+	position: relative;
+}
+
+.section-1:hover .overlay {
+	opacity: 1;
+}
+
+.section-2 {
+	position: relative;
+}
+
+.section-2:hover .overlay {
+	opacity: 1;
+}
+
+.section-3 {
+	position: relative;
+}
+
+.section-3:hover .overlay {
+	opacity: 1;
+}
+
+.section-4 {
+	position: relative;
+}
+
+.section-4:hover .overlay {
+	opacity: 1;
+}
+
+.sections {
+	float: left;
+	padding: 8px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .6s ease;
+	background-color: black;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.text-overlay {
+	color: white;
+	font-size: 13.5px;
+	line-height: 20px;
+	position: absolute;
+	font-family: 'Helvetica', sans-serif;
+	top: 50%;
+	left: 50%;
+	width: 100px;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+#mother {
+	width: 460px;
+	height: 150px;
+	margin-left: 34%;
+}

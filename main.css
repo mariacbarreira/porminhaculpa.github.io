@@ -8,14 +8,15 @@ body {
 .logo-site {
 	position: fixed;
 	margin-left: 2%;
-	margin-top: 50%;
-	width: 215px;
+	margin-top: 3%;
+	width: 220px;
+	opacity: 100%;
 }
 
 .about-main {
 	position: fixed;
 	margin-left: 2%;
-	margin-top: 5.5%;
+	margin-top: 11%;
 	color: white;
 	font-family: 'Helvetica', sans-serif;
 	font-size: 14px;
@@ -25,9 +26,65 @@ body {
 .ficha-main {
 	position: fixed;
 	margin-left: 2%;
-	margin-top: 7.5%;
+	margin-top: 13%;
 	color: white;
 	font-family: 'Helvetica', sans-serif;
 	font-size: 14px;
 	text-decoration: none;
+}
+
+.subtitle {
+	width: 230px;
+	position: fixed;
+	margin-left: 2%;
+	margin-top: 5%;
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	text-decoration: none;
+}
+
+.arrow-left {
+	width: 30px;
+	height: 30px;
+	background: url(arrow-left.png) no-repeat;
+}
+
+.arrow-left:hover {
+	width: 30px;
+	height: 30px;
+	background: url(arrow-left.gif) no-repeat;
+}
+
+.arrow-right {
+	width: 30px;
+	height: 30px;
+	background: url(arrow-right.png) no-repeat;
+}
+
+.arrow-right:hover {
+	width: 30px;
+	height: 30px;
+	background: url(arrow-right.gif) no-repeat;
+}
+
+.arrow {
+	width: 30px;
+	height: 30px;
+	position: fixed;
+	margin: auto;
+	top: -28%;
+	left: 2.5%;
+	bottom: 0;
+}
+
+.arrow-right-main{
+	width: 30px;
+	height: 30px;
+	position: fixed;
+	margin: auto;
+	top: 0;
+	right: 5%;
+	bottom: 0;
 }

@@ -14,7 +14,7 @@
 .title-fasc1 {
 	padding-top: 7%;
 	margin: auto;
-	margin-bottom: 4%;
+	height: 25px;
 }
 
 .text-fasc1 {
@@ -22,8 +22,8 @@
 	font-family: 'Helvetica', sans-serif;
 	font-size: 16px;
 	line-height: 30px;
-	margin-top: 8%;
-	margin-bottom: 8%;
+	margin-top: 4%;
+	margin-bottom: 4%;
 }
 
 .underline {
@@ -44,22 +44,6 @@
 	width: 860px;
 	height: 485px;
 	background: url(hover-redemption-1.gif) no-repeat;
-}
-
-#hover-fasc1-2 {
-	margin: auto;
-}
-
-.hover-fasc1-2 {
-	width: 860px;
-	height: 485px;
-	background: url(hover-redemption-2.jpg) no-repeat;
-}
-
-.hover-fasc1-2:hover {
-	width: 860px;
-	height: 485px;
-	background: url(hover-redemption-2.gif) no-repeat;
 }
 
 #hover-fasc1-3 {
@@ -92,21 +76,5 @@
 	width: 860px;
 	height: 485px;
 	background: url(hover-redemption-4.gif) no-repeat;
-}
-
-#hover-fasc1-5 {
-	margin: auto;
-}
-
-.hover-fasc1-5 {
-	width: 860px;
-	height: 485px;
-	background: url(hover-redemption-5.jpg) no-repeat;
-}
-
-.hover-fasc1-5:hover {
-	width: 860px;
-	height: 485px;
-	background: url(hover-redemption-5.gif) no-repeat;
 }
 

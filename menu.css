@@ -2,8 +2,8 @@
 /* CSS Document */
 
 #mother {
-	width: 670px;
-	height: 650px;
+	width: 1065px;
+	height: 150px;
 	position: absolute;
 	margin: auto;
 	top: 0;
@@ -14,26 +14,9 @@
 
 #container {
 	float: left;
-	height: 650px;
-	width: 180px;
-}
-
-#container-2 {
 	display: inline-block;
-	height: 650px;
-	width: 145px;
-}
-
-#container-3 {
-	display: inline-block;
-	width: 170px;
-	height: 650px;
-}
-
-#container-4 {
-	display: inline-block;
-	width: 150px;
-	height: 650px;
+	height: 150px;
+	width: 1065px;
 }
 
 .sections {

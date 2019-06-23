@@ -14,7 +14,7 @@
 .title-pell {
 	padding-top: 7%;
 	margin: auto;
-	margin-bottom: 4%;
+	height: 25px;
 }
 
 .text-pell {
@@ -22,8 +22,8 @@
 	font-family: 'Helvetica', sans-serif;
 	font-size: 16px;
 	line-height: 30px;
-	margin-top: 8%;
-	margin-bottom: 8%;
+	margin-top: 4%;
+	margin-bottom: 4%;
 }
 
 .underline {

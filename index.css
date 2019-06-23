@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#container-teaser {
+	width: 1064px;
+	height: 600px;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.arrow {
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 5%;
+	bottom: 0;
+}
