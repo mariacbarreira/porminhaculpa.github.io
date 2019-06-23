@@ -9,7 +9,7 @@ body {
 	position: fixed;
 	margin-left: 2%;
 	margin-top: 3%;
-	width: 220px;
+	width: 210px;
 	opacity: 100%;
 }
 
@@ -74,7 +74,7 @@ body {
 	height: 30px;
 	position: fixed;
 	margin: auto;
-	top: -28%;
+	top: 0;
 	left: 2.5%;
 	bottom: 0;
 }
